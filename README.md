@@ -1,9 +1,7 @@
 # Supermarket-Sales-Analysis
-# Data Wrangling Report
 
-### Introduction
 
-This report provides an overview of the data wrangling process applied to the supermarket sales dataset. The objective is to clean and transform the dataset to ensure it is suitable for analysis and visualization.
+This analysis provides an overview of the data wrangling process applied to the supermarket sales dataset. The objective is to clean and transform the dataset to ensure it is suitable for analysis and visualization.
 
 ### Data Loading and Overview
 
